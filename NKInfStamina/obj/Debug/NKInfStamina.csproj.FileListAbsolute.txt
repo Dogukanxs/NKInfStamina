@@ -1,0 +1,16 @@
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\NKInfStamina.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\NKInfStamina.pdb
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\Assembly-CSharp.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\Rocket.API.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\Rocket.Core.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\Rocket.Unturned.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\UnityEngine.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\obj\Debug\NKInfStamina.csproj.AssemblyReference.cache
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\obj\Debug\NKInfStamina.csproj.CoreCompileInputs.cache
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\obj\Debug\NKInfSta.1641EA59.Up2Date
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\obj\Debug\NKInfStamina.dll
+C:\Users\Dogukan\source\repos\NKInfStamina\NKInfStamina\obj\Debug\NKInfStamina.pdb
